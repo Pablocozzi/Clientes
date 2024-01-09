@@ -1,0 +1,34 @@
+﻿Listado de socios Deudores
+
+Codigo; Nombre; Deuda
+1111;Juan Cruzz;50
+1212;Dana Arnodo;5000
+1313;Carlos Tévez;450
+1414;Julián Velázquez;600
+1515;Lautaro Blanco;750
+1616;Franco Buonanotte;900
+1919;Alan Marinelli;100
+2020;Luca Dupuy;200
+2121;Facundo Campazzo;500
+2323;Emanuel Ginobili;500
+2525;Pablo Guiñazu;400
+2626;Agustin Rossi;300
+2727;Marcos Rojo;200
+4444;Diego Valoyes;400
+5555;Julio Buffarini;500
+8888;Alan Franco;800
+9999;Francisco Pizzini;900
+1010;Michael Santos;150
+2222;Guido Herrera;200
+2424;Javier Gandolfi;100
+5959;Tom Brady;150
+6523;Aaron Rogers;500
+8529;Marcos Diaz;500
+7485;Miguel Bustamante;1500
+7532;Erica Benavidez;150
+
+Cantidad de clientes: ; 25
+Cantidad de deuda: ; 15800
+Promedio de deuda: ; 632,00
+Deuda mayor: ; 5000
+Deuda Menor: ; 0

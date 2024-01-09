@@ -1,0 +1,13 @@
+﻿Listado de socios de Talleres
+
+Codigo; Nombre; Deuda
+1818;Facundo Almada;-300
+1010;Michael Santos;150
+8529;Marcos Diaz;500
+7485;Miguel Bustamante;1500
+
+Cantidad de clientes: ; 4
+Cantidad de deuda: ; 1850
+Promedio de deuda: ; 462,50
+Deuda mayor: ; 1500
+Deuda Menor: ; -300

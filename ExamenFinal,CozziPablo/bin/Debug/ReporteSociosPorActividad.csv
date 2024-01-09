@@ -1,0 +1,16 @@
+﻿Listado de socios de Boxeo
+
+Codigo; Nombre; Deuda
+1111;Juan Cruzz;50
+1313;Carlos Tévez;450
+1818;Facundo Almada;-300
+2626;Agustin Rossi;300
+7777;Matías Catalan;-300
+2424;Javier Gandolfi;100
+6523;Aaron Rogers;500
+
+Cantidad de clientes: ; 7
+Cantidad de deuda: ; 800
+Promedio de deuda: ; 114,29
+Deuda mayor: ; 500
+Deuda Menor: ; -300
